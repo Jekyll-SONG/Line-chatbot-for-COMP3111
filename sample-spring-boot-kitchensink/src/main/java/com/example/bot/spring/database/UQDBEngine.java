@@ -10,7 +10,8 @@ import java.util.ArrayList;
  * @author jsongaf
  */
 
-//I am doing a very stupid test, please ignore this pull request
+//I am doing a very stupid test, please ignore this pull request, and
+//stupid test is continuing
 public class UQDBEngine extends DBEngine {
 	/**
 	 * class constructor
